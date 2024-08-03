@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ayushi Ranjan (Second Year student at KJ Somaiya College of Engineering)
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning Data Strucutures and Structured Query Language (S.Q.L)
+- 💞️ I’m looking to collaborate on projects based on Data Analysis 
+- 📫 How to reach me ayushir2707@gmail.com
+- 😄 Pronouns: She/Her
