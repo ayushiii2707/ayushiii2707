@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Ayushi — someone who enjoys building thoughtful things with code and design. I like clarity, clean interfaces, and learning how things work beneath the surface. Calm curiosity drives most of what I do.<br><br>
+zzz<br><br>
 
 
 ## 🌐 Socials:
